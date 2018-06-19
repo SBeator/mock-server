@@ -8,7 +8,7 @@ Of course, if you think anything in this mock server is not OK for you, you can 
 
 ## Start mock server
 
-You can use `npm` or `yarn` to install the dependences and start server:
+Please clone or download this project to your local, and use `npm` or `yarn` to install the dependences and start server:
 
 ```
 npm install
